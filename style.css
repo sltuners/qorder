@@ -14,14 +14,16 @@ body {
     position: relative;
     width: 90%;
     max-width: 960px;
-    height: auto;
+    max-height: 15em;
     text-align: center;
     margin: 1% auto;
   color: #132A3A;
   background: hsla(0, 0%, 100%, 0.2);;
   padding: 5%;
+  padding-top: 2%;
   border-radius: 25px;
   font-size: 2em;
+  overflow: hidden;
   }
 
 span {
@@ -45,11 +47,6 @@ p {
     width: auto;
     margin-top: 5%;
     }  
-
-.hubspot-link__container.sproket {
-  color: #9fa0a2;
-  display: none;
-}
 
 #header {
   margin: 50px auto;
