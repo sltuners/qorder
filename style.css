@@ -14,7 +14,7 @@ body {
     position: relative;
     width: 90%;
     max-width: 960px;
-    max-height: 15em;
+    height: auto;
     text-align: center;
     margin: 1% auto;
   color: #132A3A;
