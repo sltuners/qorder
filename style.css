@@ -44,7 +44,12 @@ p {
     max-height: 200px;
     width: auto;
     margin-top: 5%;
-    }    
+    }  
+
+.hubspot-link__container.sproket {
+  color: #9fa0a2;
+  display: none;
+}
 
 #header {
   margin: 50px auto;
